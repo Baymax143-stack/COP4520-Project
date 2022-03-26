@@ -4,7 +4,7 @@ The following README.md file is provided for updates regarding the project topic
 </pre>
 
 ## Project Topic: Integrating Parallel Computation of Nash Equilibria into N-Player Role-Playing Games
-When we consider its definition, a role-playing game (RPG) is a game in which participants assume the roles of characters in a fictional setting; its definition, however, can be extended by analysis of randomness or unpredictability in the game. In this project, we wil conduct the following steps:
+When we consider its definition, a role-playing game (RPG) is a game in which participants assume the roles of characters in a fictional setting; its definition, however, can be extended by analysis of randomness or unpredictability in the game. In this project, we wil/ conduct the following steps:
 
 1. Delve into how we can define a role-playing game by stochastic randomness, referencing that a stochastic game is denoted as a game where "the play proceeds by steps from position to position, according to transition probabilities controlled jointly by two players." [^1]
 2. Observe the processes required to calculate equilibrium given the dynamic nature of the game, where a set of choices conducted by each player not only affects the amount and type of payoff another player receives but affects the environment they are interacting within.
