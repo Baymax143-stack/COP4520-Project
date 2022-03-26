@@ -14,6 +14,14 @@ When we consider its definition, a role-playing game (RPG) is a game in which pa
 
 [^1]: LS Shapley, Stochastic games. Proc Natl Acad Sci USA 39, 1095–1100 (1953)
 
+
+## Installation and Execution:
+**While all files from the source code must be downloaded in order to run this program through the terminal, it is expected that the final product of this project will be an interactive Discord Bot for download and use by an individual:**
+
+1. Open a terminal and navigate to the location of ```NashHunt```
+2. Compile the program with the following command: ```javac NashHunt.java```
+3. Run the compiled program with the following command: ```java NashHunt```
+
 ## Recorded Updates:
 
 ### Update: 03/25/2022
