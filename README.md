@@ -3,7 +3,7 @@
 The following README.md file is provided for updates regarding the project topic and description and specific details on progress for this project.
 </pre>
 
-## Project Topic: Integrating Parallel Computation of Nash Equilibria into N-Player Role-Playing Games
+## Project Topic: Implementation of Parallel Computation of Multiple Subgame Perfect Equilibrium in N-Player Role-Playing Games
 When we consider its definition, a role-playing game (RPG) is a game in which participants assume the roles of characters in a fictional setting; its definition, however, can be extended by analysis of randomness or unpredictability in the game. In this project, we wil/ conduct the following steps:
 
 1. Delve into how we can define a role-playing game by stochastic randomness, referencing that a stochastic game is denoted as a game where "the play proceeds by steps from position to position, according to transition probabilities controlled jointly by two players." [^1]
@@ -15,11 +15,16 @@ When we consider its definition, a role-playing game (RPG) is a game in which pa
 [^1]: LS Shapley, Stochastic games. Proc Natl Acad Sci USA 39, 1095–1100 (1953)
 
 
-## Installation and Execution:
-**While all files from the source code must be downloaded in order to run this program through the terminal, it is expected that the final product of this project will be an interactive Discord Bot for download and use by an individual:**
+## Installation and Execution of Experimental Evaluation:
+**GameTree must be downloaded in order to run this program through the terminal:**
+
+1. Open a terminal and navigate to the location of ```GameTree```
+2. Compile the program with the following command: ```javac GameTree.java```
+3. Run the compiled program with the following command: ```java GameTree```
+
+## Installation and Execution of Actual Game:
+**NashHunt must be downloaded in order to run this program through the terminal:**
 
 1. Open a terminal and navigate to the location of ```NashHunt```
 2. Compile the program with the following command: ```javac NashHunt.java```
 3. Run the compiled program with the following command: ```java NashHunt```
-
-
