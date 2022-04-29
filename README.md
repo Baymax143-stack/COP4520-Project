@@ -28,3 +28,10 @@ When we consider its definition, a role-playing game (RPG) is a game in which pa
 1. Open a terminal and navigate to the location of ```NashHunt```
 2. Compile the program with the following command: ```javac NashHunt.java```
 3. Run the compiled program with the following command: ```java NashHunt```
+
+**Instructions for Game Play:**
+You will be spawned onto a random square within an 8x8 map. Your goal is to traverse across the map
+and find the target location. While traversing across the map, an enemy will be seeking you out. To win
+this game, you must either find the target location or defeat the enemy in combat. Please note that
+when prompted for input, follow the instructions on what to type. You will always have two choices for
+input.
