@@ -35,3 +35,8 @@ and find the target location. While traversing across the map, an enemy will be 
 this game, you must either find the target location or defeat the enemy in combat. Please note that
 when prompted for input, follow the instructions on what to type. You will always have two choices for
 input.
+
+## Presentation Slides:
+For the presentaiton slides, located in the Midterm Report Folder, slides 1 - 20 were used for the short
+presentation during class. The remainder slides were used for the longer version of the presentation, posted
+in the discussion board for video presentations.
