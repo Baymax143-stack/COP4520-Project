@@ -37,6 +37,6 @@ when prompted for input, follow the instructions on what to type. You will alway
 input.
 
 ## Presentation Slides:
-For the presentaiton slides, located in the Midterm Report Folder, slides 1 - 20 were used for the short
+For the presentation slides, located in the Midterm Report Folder, slides 1 - 20 were used for the short
 presentation during class. The remainder slides were used for the longer version of the presentation, posted
 in the discussion board for video presentations.
